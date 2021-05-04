@@ -1,1 +1,2 @@
 create main back
+connect front
